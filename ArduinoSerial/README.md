@@ -109,7 +109,4 @@ Start with the cart free to move at low speed before trusting it with a full swi
 
 ---
 
-## Roadmap
-
-A ROS2 + micro-ROS version (Teensy 4.1, `rclc` executor, topic-based comms instead of raw serial) is in progress and will be published as a separate branch/version when it's ready for others to run.
 
