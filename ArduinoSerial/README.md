@@ -79,7 +79,7 @@ Before running on your own hardware, check these constants in `serial_control.py
 - `CART_LIMIT_LEFT` / `CART_LIMIT_RIGHT` in firmware — your rail's physical travel limits, in encoder ticks
 - `Kp` / `Kd` in firmware — the on-device PD gains for tracking a target position; tune these on the bench before running the full policy
 - `maxPWM` in firmware — this project runs the motor at 7V; if you run at a different supply voltage, the torque delivered at a given PWM duty cycle will differ, so re-tune `maxPWM` and the PD gains accordingly
-
+- `Manually place cart in center and let pendulum settle before running`
 ---
 
 ## Training
