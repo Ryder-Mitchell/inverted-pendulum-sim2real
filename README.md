@@ -21,7 +21,7 @@ The three pieces:
 
 - Hand-fabricated cart and rail
 - Teensy 4.1
-- IBT-2 motor driver
+- IBT-2 motor driver (I ran it on 7V)
 - Quadrature encoders (cart + pendulum)
 - Host PC running ROS2 on Ubuntu
 
