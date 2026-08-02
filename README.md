@@ -2,7 +2,7 @@
 
 Trains a reinforcement learning policy in simulation and runs it on a real cart-pole system built from scratch.
 
-https://www.youtube.com/shorts/UFT4sX_hefM
+(https://www.youtube.com/shorts/HHD_LekFSoY) - I have not added joystick control to GitHub but may in the future
 
 ---
 
